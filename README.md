@@ -31,3 +31,5 @@ Conclusion
 This script is a useful tool for automating the process of downloading and installing multiple applications at once. With a few modifications, it can be tailored to suit your specific needs. I hope this script will be helpful for you.
 
 Please let me know if you need any more help with it.
+
+!!!!!(I'm not sure that even works. Waiting for the moment when I reinstall the PC. Some_day )!!!!!
